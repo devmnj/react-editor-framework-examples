@@ -1,70 +1,73 @@
-# Getting Started with Create React App
+<p align="center">
+  <a href="" rel="noopener">
+ <img src= "https://images.unsplash.com/photo-1602265585142-6b221b9b2c24?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1025" alt="Project logo"></a>
+</p>
+<h3 align="center">React Editor Framework Examples</h3>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center">
 
-## Available Scripts
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
 
-In the project directory, you can run:
+</div>
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<p align="center"> This is a set of Editor Example (React) with TinyMCE, RMirror, Draftjs, MuiEditor and Slatejs .
+    <br> 
+</p>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 📝 Table of Contents
 
-### `npm test`
+- [📝 Table of Contents](#-table-of-contents)
+- [🅰️ About <a name="about"> </a>](#️-about--)
+- [🥍 Live example](#-live-example)
+- [🐩 Dependencies <a name = "dep"></a>](#-dependencies-)
+- [🀄 Getting Started <a name = "getting_started"></a>](#-getting-started-)
+  - [🍠 Test the application](#-test-the-application)
+- [⛏️ Built With <a name = "tech_stack"></a>](#️-built-with-)
+- [🎉 More guides on React <a name = "acknowledgments"></a>](#-more-guides-on-react-)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🅰️ About <a name="about"> </a>
+This project illustrate the implementation of Editor frameworks in React application.
+## 🥍 Live example
+<iframe src="https://codesandbox.io/embed/react-editor-frameworks-o7n10k?fontsize=14&hidenavigation=1&theme=dark"
+     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
+     title="react editor frameworks"
+     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
+     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
+   ></iframe>
 
-### `npm run build`
+## 🐩 Dependencies <a name = "dep"></a>
+Please go through `package.json` for more detail about dependencies.
+- slate-react
+- draftjs
+- mui-rte
+- @tinymce/tinymce-react
+- @remirror/react
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🀄 Getting Started <a name = "getting_started"></a>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Install the dependencies from `package.json`. 
+```
+yarn install
+or
+npm install
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 🍠 Test the application
 
-### `npm run eject`
+ ```
+npm run start
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## ⛏️ Built With <a name = "tech_stack"></a>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- [React](https://www.recajs.org/) - React
+- [NodeJs](https://nodejs.org/en/) - Server Environment
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 🎉 More guides on React <a name = "acknowledgments"></a>
 
-## Learn More
+[JSU - JavaScript Super User](http://javascriptsu.wordspres.com)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ 
