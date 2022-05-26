@@ -30,13 +30,8 @@
 ## 🅰️ About <a name="about"> </a>
 This project illustrate the implementation of Editor frameworks in React application.
 ## 🥍 Live example
-<iframe src="https://codesandbox.io/embed/react-editor-frameworks-o7n10k?fontsize=14&hidenavigation=1&theme=dark"
-     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
-     title="react editor frameworks"
-     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
-     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
-   ></iframe>
-
+[On Sandbox](https://codesandbox.io/s/react-quilljs-zu9zg2)
+ 
 ## 🐩 Dependencies <a name = "dep"></a>
 Please go through `package.json` for more detail about dependencies.
 - slate-react
